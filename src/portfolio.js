@@ -26,7 +26,7 @@ const greeting = {
     "I am a front end developer, my passion is designing responsive web interfaces and the best user experience that I can"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1zQK5TfisAzZnNltBl9jEgJZjY6w-gr9w/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
